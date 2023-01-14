@@ -1,5 +1,9 @@
 # projectproposalMKEL1123 (3%)
 
+references:
+https://sudonull.com/post/141293-Speech-Recognition-on-STM32F4-Discovery
+https://github.com/hemantnile/stm32-speech-recognition
+
 **INSTRUCTION**
 Propose a project that suits the capability of the STM32
 Good applications include: 
@@ -30,6 +34,9 @@ Must use software libraries to fully utilize STM32 capabilities. Examples:
 Write the proposal in Github
 
 Github URL for Part 2.2. The proposal contains the following sections:
+
+**Project Title: Speech Recognition using STM32F4**
+
 Previous works. A selection of related works by others
 
 
